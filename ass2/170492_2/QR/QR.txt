@@ -1,0 +1,11 @@
+QR decomposition
+
+Eigenvalues
+5.302727
+3.618067
+1.696465
+1.382585
+
+
+iterations
+16

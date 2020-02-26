@@ -1,0 +1,6 @@
+Solution using thomas algorithm: 
+
+-1.933333 
+-0.866667 
+-0.533333 
+0.733333 
